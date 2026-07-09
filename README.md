@@ -4,7 +4,7 @@ Desenvolvedor Fullstack & Designer UI/UX. Criando interfaces impecáveis e siste
 
 ### 📊 Meus Status do GitHub
 
-| ![Status de Renan](https://github-readme-stats.vercel.app/api?username=renanrodriguescodes&show_icons=true&theme=dark&include_all_commits=true&count_private=true) | ![Linguagens de Renan](https://github-readme-stats.vercel.app/api/top-langs/?username=renanrodriguescodes&layout=compact&theme=dark&langs_count=7) |
+| ![Status de Linha](https://github-readme-activity-graph.vercel.app/graph?username=renanrodriguescodes&theme=github-dark) | ![Seu Streak de Commits](https://github-readme-streak-stats.herokuapp.com/?user=renanrodriguescodes&theme=github-dark) |
 | :---: | :---: |
 
 ---
