@@ -1,11 +1,11 @@
-# Oiii! Eu sou o Renan Rodrigues 👋
+# Olá! Eu sou o Renan Rodrigues 👋
 
-Desenvolvedor Fullstack & Designer UI/UX. Criando interfaces impecáveis e sistemas inabaláveis.
+<strong>Desenvolvedor Fullstack & Designer UI/UX.</strong>
 
-### 📊 Meus Status do GitHub
+### 🤖 Estastísticas
 
 <p>
-  <img width="56%" src="https://github-readme-activity-graph.vercel.app/graph?username=renanrodriguescodes&theme=github-dark" alt="Status de Linha" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=renanrodriguescodes&theme=github-dark" alt="Status de Linha"/>
 </p>
 
 ---
