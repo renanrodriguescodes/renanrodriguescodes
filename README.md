@@ -2,12 +2,6 @@
 
 <strong>Desenvolvedor Fullstack & Designer UI/UX.</strong>
 
-### 🤖 Estastísticas
-
-<p>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=renanrodriguescodes&theme=github-dark" alt="Status de Linha"/>
-</p>
-
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
