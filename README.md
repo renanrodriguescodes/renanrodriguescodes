@@ -34,6 +34,6 @@
 
 ---
 
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/renanrodriguescodes/renanrodriguescodes/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
