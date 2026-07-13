@@ -4,7 +4,7 @@
 
 🚀 Tenho 21 anos e estou concluindo minha graduação em Engenharia de Software. Atualmente atuo como estagiário na área de desenvolvimento e também crio landing pages, e-commerces, sistemas web e aplicativos para clientes, unindo desenvolvimento e design em cada projeto.
 
-🌐 Conheça meu portfólio: https://renandev.tech
+💼 Conheça meu portfólio: https://renandev.tech
 
 ---
 
