@@ -21,19 +21,24 @@
 ### 🌐 Conecte-se Comigo
 
 <p align="left">
-  <a href="https://instagram.com/renancodes" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://instagram.com/renancodes_" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://wa.me/5562992865973?text=Ol%C3%A1%2C%20gostaria%20de%20iniciar%20um%20projeto%21" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+  <a href="https://www.linkedin.com/in/seu-linkedin-aqui/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:contato@renan.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+  <a href="mailto:contato@renan.dev" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
 ---
 
 <p>
-  <img src="https://raw.githubusercontent.com/renanrodriguescodes/renanrodriguescodes/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img
+    src="https://raw.githubusercontent.com/renanrodriguescodes/renanrodriguescodes/output/github-contribution-grid-snake-dark.svg"
+    alt="Snake animation"
+  />
 </p>
