@@ -30,7 +30,7 @@
     />
   </a>
 
-  <a href="https://www.linkedin.com/in/seu-linkedin-aqui/" target="_blank">
+  <a href="https://www.linkedin.com/in/renan-rodrigues-carneiro-2b6634297?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
     <img
       src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAzLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNFY5aDMuNDJ2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjMyIDcuNDNhMi4wNyAyLjA3IDAgMSAxIDAtNC4xNCAyLjA3IDIuMDcgMCAwIDEgMCA0LjE0ek03LjEgMjAuNDVIMy41NFY5SDcuMXYxMS40NXoiLz48L3N2Zz4%3D"
       alt="LinkedIn"
